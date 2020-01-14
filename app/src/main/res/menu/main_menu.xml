@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/main_message"
+        android:title="메시디"
+        android:icon="@drawable/message"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/main_logout"
+        android:title="로그아웃"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/main_myInfo"
+        android:title="내정보"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/main_chat"
+        android:title="대화보관"
+        app:showAsAction="never"/>
+</menu>
