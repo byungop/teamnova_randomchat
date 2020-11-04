@@ -2,12 +2,12 @@
 안드로이드. 두번째 작품
 
 # 구현전 예제정리
-유튜브 API : https://gist.github.com/byungop/ca71f5d4269cbf2174ea637db259f08a
-네이버 뉴스 API : https://gist.github.com/byungop/d390b77e06d944b90f25c586c2d6c7ba
-SMS메시지 송수신 : https://gist.github.com/byungop/805b304f694fb6922f9821ce31701bb9
-TTS 기능 : https://gist.github.com/byungop/ab624f1745e55070d10aa4be7af296ad
-SQLite CRUD : https://gist.github.com/byungop/42c9b13e33b021194cade4df4e280acd
-커스텀 토스트 https://gist.github.com/byungop/0a2845aa80fe297cd45ac39795d40f37
+- 유튜브 API : https://gist.github.com/byungop/ca71f5d4269cbf2174ea637db259f08a
+- 네이버 뉴스 API : https://gist.github.com/byungop/d390b77e06d944b90f25c586c2d6c7ba
+- SMS메시지 송수신 : https://gist.github.com/byungop/805b304f694fb6922f9821ce31701bb9
+- TTS 기능 : https://gist.github.com/byungop/ab624f1745e55070d10aa4be7af296ad
+- SQLite CRUD : https://gist.github.com/byungop/42c9b13e33b021194cade4df4e280acd
+- 커스텀 토스트 https://gist.github.com/byungop/0a2845aa80fe297cd45ac39795d40f37
 
 
 # 부연설명
